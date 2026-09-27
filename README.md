@@ -118,17 +118,3 @@ GitHub: [@GuiEspecoto](https://github.com/GuiEspecoto)
 ---
 
 > 🚀 Transformando ideias em código.
-
-````
-
-### Como colocar no GitHub
-
-No repositório `discord-ticket-bot`:
-
-**Add file → Create new file**
-
-Nome:
-
-```text
-README.md
-````
