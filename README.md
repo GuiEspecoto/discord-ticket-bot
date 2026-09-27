@@ -1,8 +1,4 @@
-Claro. Como o bot é em **Python** e o foco é **sistema de tickets para Discord**, eu faria um README com cara de projeto real, sem inventar funcionalidades que o bot não tenha.
 
-**Cole exatamente isto no `README.md`:**
-
-````md
 # 🎫 Discord Ticket Bot
 
 > Bot para Discord desenvolvido em Python com foco em atendimento e gerenciamento de tickets.
